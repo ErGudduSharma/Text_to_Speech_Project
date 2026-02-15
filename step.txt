@@ -1,0 +1,41 @@
+Step 1: Install Required Libraries
+Open your terminal and run:
+pip install fastapi uvicorn gtts edge-tts
+
+Step 2: Start the FastAPI Server
+Run the following command to start the server:
+uvicorn main_api:app --reload
+
+Step 3: Access Swagger UI
+Open your web browser and go to:
+http://127.0.0.1:8000/docs
+
+Step 4: Test Google TTS (gTTS)
+1. Expand the "Google TTS" section (POST /gtts/generate).
+2. Click "Try it out".
+3. Enter JSON payload:
+   {
+     "text": "Hello using Google TTS",
+     "lang": "en",
+     "slow": false
+   }
+4. Click "Execute".
+5. Check 'output' folder for `gtts_....mp3`.
+
+Step 5: Test Microsoft Edge TTS
+1. Expand the "Microsoft Edge TTS" section (POST /edge-tts/generate).
+2. Click "Try it out".
+3. Enter JSON payload:
+   {
+     "text": "Hello using Edge TTS",
+     "voice": "en-US-AriaNeural",
+     "rate": "+0%",
+     "volume": "+0%",
+     "pitch": "+0Hz"
+   }
+4. Click "Execute".
+5. Check 'output' folder for `edge_....mp3`.
+
+Step 6: List Edge TTS Voices
+1. Expand "Microsoft Edge TTS" section (GET /edge-tts/list-voices).
+2. Execute to see available voices like "en-US-GuyNeural", "hi-IN-SwaraNeural", etc.
