@@ -1,0 +1,584 @@
+[
+    {
+        "timestamp": "2026-02-17T10:21:29.468433",
+        "text": "AI stands for Artificial Intelligence.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:21:52.180764",
+        "text": "AI stands for Artificial Intelligence.\n\nIt means computers or machines designed to think, learn, and make decisions in ways that are similar to humans.\n\nSimple explanation:\n\nAI is when a computer can:\n\nUnderstand language (like I\u2019m doing now)\n\nRecognize images or faces\n\nMake recommendations (like Netflix or YouTube)\n\nPlay games\n\nLearn from experience\n\nReal-world examples:\n\nVoice assistants like Siri or Alexa\n\nSelf-driving car systems\n\nChatbots (like me)\n\nRecommendation systems on apps",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:22:05.871034",
+        "text": "AI stands for Artificial Intelligence.",
+        "engine": "gtts",
+        "voice": "hi"
+    },
+    {
+        "timestamp": "2026-02-17T10:22:06.737330",
+        "text": "It means computers or machines designed to think, learn, and make decisions in ways that are similar to humans.",
+        "engine": "gtts",
+        "voice": "hi"
+    },
+    {
+        "timestamp": "2026-02-17T10:37:30.852929",
+        "text": "AI stands for Artificial Intelligence.\n\nIt means computers or machines designed to think, learn, and make decisions in ways that are similar to humans.\n\nSimple explanation:\n\nAI is when a computer can:\n\nUnderstand language (like I\u2019m doing now)\n\nRecognize images or faces\n\nMake recommendations (like Netflix or YouTube)\n\nPlay games\n\nLearn from experience\n\nReal-world examples:\n\nVoice assistants like Siri or Alexa\n\nSelf-driving car systems\n\nChatbots (like me)\n\nRecommendation systems on apps  and  or",
+        "engine": "gtts",
+        "voice": "hi"
+    },
+    {
+        "timestamp": "2026-02-17T10:38:39.890313",
+        "text": "INFO:     127.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:38:44.231552",
+        "text": "0.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:38:47.128401",
+        "text": "1:54031 - \"GET / HTTP/1.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:38:50.788574",
+        "text": "1\" 200 OK\nINFO:     127.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:38:54.890582",
+        "text": "1:62097 - \"WebSocket /edge-tts/ws\" [accepted]\nINFO:     connection open\nINFO:     connection closed\nINFO:     127.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:39:00.226080",
+        "text": "1:53710 - \"WebSocket /edge-tts/ws\" [accepted]\nINFO:     connection open\nINFO:     connection closed",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:39:08.655650",
+        "text": "\ud835\udc00\ud835\udc20\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc22\ud835\udc1c \ud835\udc11\ud835\udc00\ud835\udc06: \ud835\udc0d\ud835\udc28 \ud835\udc0c\ud835\udc28\ud835\udc2b\ud835\udc1e \ud835\udc0f\ud835\udc2b\ud835\udc1e-\ud835\udc13\ud835\udc2b\ud835\udc1a\ud835\udc22\ud835\udc27\ud835\udc1e\ud835\udc1d \ud835\udc03\ud835\udc1a\ud835\udc2d\ud835\udc1a!",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:39:12.010671",
+        "text": "Revolutionizing how we think about Retrieval-Augmented Generation (RAG) by empowering agents to work dynamically without relying on fixed pre-trained data.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:39:16.803594",
+        "text": "\ud835\udc12\ud835\udc22\ud835\udc27\ud835\udc20\ud835\udc25\ud835\udc1e-\ud835\udc00\ud835\udc20\ud835\udc1e\ud835\udc27\ud835\udc2d \ud835\udc00\ud835\udc20\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc22\ud835\udc1c \ud835\udc11\ud835\udc00\ud835\udc06\n-A single intelligent agent independently retrieves, analyzes, and generates answers.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:39:21.302706",
+        "text": "-Dynamically fetches real-time data based on the query, ensuring up-to-date and context-specific responses.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:39:25.942825",
+        "text": "-Ideal for focused, high-accuracy applications where speed and autonomy are critical.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:39:29.738464",
+        "text": "adn",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:39:33.240575",
+        "text": "and",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:39:37.074648",
+        "text": "and this",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:39:40.557744",
+        "text": "and this is",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:39:44.039303",
+        "text": "and this is ai generate",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:39:47.510367",
+        "text": "and this is ai generated",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:39:50.588711",
+        "text": "and this is ai generated audio",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:39:54.073434",
+        "text": "and this is ai generated audio and",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:39:57.651513",
+        "text": "and this is ai generated audio and this is based",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:40:01.094380",
+        "text": "and this is ai generated audio and this is based on",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:40:04.174433",
+        "text": "and this is ai generated audio and this is based on the",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:40:07.598050",
+        "text": "and this is ai generated audio and this is based on the sys",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:40:11.211408",
+        "text": "and this is ai generated audio and this is based on the system generatd",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:40:15.168449",
+        "text": "and this is ai generated audio and this is based on the system generated",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:44:38.595708",
+        "text": "\ud835\udc00\ud835\udc20\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc22\ud835\udc1c \ud835\udc11\ud835\udc00\ud835\udc06: \ud835\udc0d\ud835\udc28 \ud835\udc0c\ud835\udc28\ud835\udc2b\ud835\udc1e \ud835\udc0f\ud835\udc2b\ud835\udc1e-\ud835\udc13\ud835\udc2b\ud835\udc1a\ud835\udc22\ud835\udc27\ud835\udc1e\ud835\udc1d \ud835\udc03\ud835\udc1a\ud835\udc2d\ud835\udc1a!",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:44:42.010914",
+        "text": "Revolutionizing how we think about Retrieval-Augmented Generation (RAG) by empowering agents to work dynamically without relying on fixed pre-trained data.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:44:45.759260",
+        "text": "\ud835\udc12\ud835\udc22\ud835\udc27\ud835\udc20\ud835\udc25\ud835\udc1e-\ud835\udc00\ud835\udc20\ud835\udc1e\ud835\udc27\ud835\udc2d \ud835\udc00\ud835\udc20\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc22\ud835\udc1c \ud835\udc11\ud835\udc00\ud835\udc06\n-A single intelligent agent independently retrieves, analyzes, and generates answers.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:44:49.198595",
+        "text": "-Dynamically fetches real-time data based on the query, ensuring up-to-date and context-specific responses.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:44:52.160173",
+        "text": "-Ideal for focused, high-accuracy applications where speed and autonomy are critical.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:46:14.624427",
+        "text": "\ud835\udc00\ud835\udc20\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc22\ud835\udc1c \ud835\udc11\ud835\udc00\ud835\udc06: \ud835\udc0d\ud835\udc28 \ud835\udc0c\ud835\udc28\ud835\udc2b\ud835\udc1e \ud835\udc0f\ud835\udc2b\ud835\udc1e-\ud835\udc13\ud835\udc2b\ud835\udc1a\ud835\udc22\ud835\udc27\ud835\udc1e\ud835\udc1d \ud835\udc03\ud835\udc1a\ud835\udc2d\ud835\udc1a!",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:46:18.164118",
+        "text": "Revolutionizing how we think about Retrieval-Augmented Generation (RAG) by empowering agents to work dynamically without relying on fixed pre-trained data.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:46:21.126077",
+        "text": "\ud835\udc12\ud835\udc22\ud835\udc27\ud835\udc20\ud835\udc25\ud835\udc1e-\ud835\udc00\ud835\udc20\ud835\udc1e\ud835\udc27\ud835\udc2d \ud835\udc00\ud835\udc20\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc22\ud835\udc1c \ud835\udc11\ud835\udc00\ud835\udc06\n-A single intelligent agent independently retrieves, analyzes, and generates answers.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:46:24.861561",
+        "text": "-Dynamically fetches real-time data based on the query, ensuring up-to-date and context-specific responses.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:46:28.215309",
+        "text": "-Ideal for focused, high-accuracy applications where speed and autonomy are critical.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:47:46.639831",
+        "text": "\ud835\udc00\ud835\udc20\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc22\ud835\udc1c \ud835\udc11\ud835\udc00\ud835\udc06: \ud835\udc0d\ud835\udc28 \ud835\udc0c\ud835\udc28\ud835\udc2b\ud835\udc1e \ud835\udc0f\ud835\udc2b\ud835\udc1e-\ud835\udc13\ud835\udc2b\ud835\udc1a\ud835\udc22\ud835\udc27\ud835\udc1e\ud835\udc1d \ud835\udc03\ud835\udc1a\ud835\udc2d\ud835\udc1a!",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:47:50.221439",
+        "text": "Revolutionizing how we think about Retrieval-Augmented Generation (RAG) by empowering agents to work dynamically without relying on fixed pre-trained data.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:47:53.657509",
+        "text": "\ud835\udc12\ud835\udc22\ud835\udc27\ud835\udc20\ud835\udc25\ud835\udc1e-\ud835\udc00\ud835\udc20\ud835\udc1e\ud835\udc27\ud835\udc2d \ud835\udc00\ud835\udc20\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc22\ud835\udc1c \ud835\udc11\ud835\udc00\ud835\udc06\n-A single intelligent agent independently retrieves, analyzes, and generates answers.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:47:57.120861",
+        "text": "-Dynamically fetches real-time data based on the query, ensuring up-to-date and context-specific responses.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:48:00.582993",
+        "text": "-Ideal for focused, high-accuracy applications where speed and autonomy are critical.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:48:04.116405",
+        "text": "and",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:48:07.671744",
+        "text": "and this is",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:48:10.525918",
+        "text": "and this is ai",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:48:14.503445",
+        "text": "and this is ai sys",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:48:18.107668",
+        "text": "and this is ai system",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:48:21.356455",
+        "text": "and this is ai system gene",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:48:24.951789",
+        "text": "and this is ai system generate",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:48:28.735791",
+        "text": "and this is ai system generated",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:48:32.935209",
+        "text": "and this is ai system generated au",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:48:36.211065",
+        "text": "and this is ai system generated audio",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:48:39.308196",
+        "text": "and this is ai system generated audio and",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:48:42.974322",
+        "text": "and this is ai system generated audio and it",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:48:46.074109",
+        "text": "and this is ai system generated audio and it base",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:51:16.985923",
+        "text": "\ud835\udc00\ud835\udc20\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc22\ud835\udc1c \ud835\udc11\ud835\udc00\ud835\udc06: \ud835\udc0d\ud835\udc28 \ud835\udc0c\ud835\udc28\ud835\udc2b\ud835\udc1e \ud835\udc0f\ud835\udc2b\ud835\udc1e-\ud835\udc13\ud835\udc2b\ud835\udc1a\ud835\udc22\ud835\udc27\ud835\udc1e\ud835\udc1d \ud835\udc03\ud835\udc1a\ud835\udc2d\ud835\udc1a!",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:51:20.465611",
+        "text": "Revolutionizing how we think about Retrieval-Augmented Generation (RAG) by empowering agents to work dynamically without relying on fixed pre-trained data.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:51:23.983957",
+        "text": "\ud835\udc12\ud835\udc22\ud835\udc27\ud835\udc20\ud835\udc25\ud835\udc1e-\ud835\udc00\ud835\udc20\ud835\udc1e\ud835\udc27\ud835\udc2d \ud835\udc00\ud835\udc20\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc22\ud835\udc1c \ud835\udc11\ud835\udc00\ud835\udc06\n-A single intelligent agent independently retrieves, analyzes, and generates answers.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:51:27.026244",
+        "text": "-Dynamically fetches real-time data based on the query, ensuring up-to-date and context-specific responses.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:51:30.333418",
+        "text": "-Ideal for focused, high-accuracy applications where speed and autonomy are critical.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:51:34.249642",
+        "text": "and",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:51:38.069340",
+        "text": "and this",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:51:41.283568",
+        "text": "and this is",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:51:44.634537",
+        "text": "and this is ai",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:51:47.744275",
+        "text": "and this is ai sys",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:51:50.973045",
+        "text": "and this is ai system",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:51:53.944279",
+        "text": "and this is ai system gene",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:51:56.983061",
+        "text": "and this is ai system genera",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:52:00.807128",
+        "text": "and this is ai system generated",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:52:04.304052",
+        "text": "and this is ai system generated au",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:52:06.972813",
+        "text": "and this is ai system generated audio",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:53:51.944007",
+        "text": "\ud835\udc00\ud835\udc20\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc22\ud835\udc1c \ud835\udc11\ud835\udc00\ud835\udc06: \ud835\udc0d\ud835\udc28 \ud835\udc0c\ud835\udc28\ud835\udc2b\ud835\udc1e \ud835\udc0f\ud835\udc2b\ud835\udc1e-\ud835\udc13\ud835\udc2b\ud835\udc1a\ud835\udc22\ud835\udc27\ud835\udc1e\ud835\udc1d \ud835\udc03\ud835\udc1a\ud835\udc2d\ud835\udc1a!",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:53:56.094453",
+        "text": "Revolutionizing how we think about Retrieval-Augmented Generation (RAG) by empowering agents to work dynamically without relying on fixed pre-trained data.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:53:59.631386",
+        "text": "\ud835\udc12\ud835\udc22\ud835\udc27\ud835\udc20\ud835\udc25\ud835\udc1e-\ud835\udc00\ud835\udc20\ud835\udc1e\ud835\udc27\ud835\udc2d \ud835\udc00\ud835\udc20\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc22\ud835\udc1c \ud835\udc11\ud835\udc00\ud835\udc06\n-A single intelligent agent independently retrieves, analyzes, and generates answers.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:54:03.417586",
+        "text": "-Dynamically fetches real-time data based on the query, ensuring up-to-date and context-specific responses.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:54:06.981495",
+        "text": "-Ideal for focused, high-accuracy applications where speed and autonomy are critical.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:54:10.065712",
+        "text": "and this ai generated",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:54:13.950248",
+        "text": "audio and this is",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:54:55.300723",
+        "text": "harmful system file",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:55:10.154737",
+        "text": "and which is completely",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:57:07.366673",
+        "text": "\ud835\udc00\ud835\udc20\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc22\ud835\udc1c \ud835\udc11\ud835\udc00\ud835\udc06: \ud835\udc0d\ud835\udc28 \ud835\udc0c\ud835\udc28\ud835\udc2b\ud835\udc1e \ud835\udc0f\ud835\udc2b\ud835\udc1e-\ud835\udc13\ud835\udc2b\ud835\udc1a\ud835\udc22\ud835\udc27\ud835\udc1e\ud835\udc1d \ud835\udc03\ud835\udc1a\ud835\udc2d\ud835\udc1a!",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:57:11.252673",
+        "text": "Revolutionizing how we think about Retrieval-Augmented Generation (RAG) by empowering agents to work dynamically without relying on fixed pre-trained data.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:57:15.492189",
+        "text": "\ud835\udc12\ud835\udc22\ud835\udc27\ud835\udc20\ud835\udc25\ud835\udc1e-\ud835\udc00\ud835\udc20\ud835\udc1e\ud835\udc27\ud835\udc2d \ud835\udc00\ud835\udc20\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc22\ud835\udc1c \ud835\udc11\ud835\udc00\ud835\udc06\n-A single intelligent agent independently retrieves, analyzes, and generates answers.",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:57:21.726907",
+        "text": "and this ai generated",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:57:28.259344",
+        "text": "data and it",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:57:35.323543",
+        "text": "very harmful for human",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:57:49.709619",
+        "text": "and this is very useful",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:57:58.202620",
+        "text": "for everyone and",
+        "engine": "edge",
+        "voice": "hi-IN-SwaraNeural"
+    },
+    {
+        "timestamp": "2026-02-17T10:58:28.890368",
+        "text": "that ir complete",
+        "engine": "gtts",
+        "voice": "hi"
+    },
+    {
+        "timestamp": "2026-02-17T10:58:34.501668",
+        "text": "ly depend on the",
+        "engine": "gtts",
+        "voice": "hi"
+    },
+    {
+        "timestamp": "2026-02-17T10:58:40.772605",
+        "text": "re type of user and",
+        "engine": "gtts",
+        "voice": "hi"
+    },
+    {
+        "timestamp": "2026-02-17T10:58:48.075042",
+        "text": "and this ai generated data and it very harmful for human and this is very useful for everyone.",
+        "engine": "gtts",
+        "voice": "hi"
+    },
+    {
+        "timestamp": "2026-02-17T10:59:19.512313",
+        "text": "or this is",
+        "engine": "gtts",
+        "voice": "en"
+    },
+    {
+        "timestamp": "2026-02-17T10:59:22.696921",
+        "text": "a type of",
+        "engine": "gtts",
+        "voice": "en"
+    }
+]

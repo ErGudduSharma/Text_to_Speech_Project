@@ -1,41 +1,50 @@
-Step 1: Install Required Libraries
-Open your terminal and run:
-pip install fastapi uvicorn gtts edge-tts
+🚀 VOICE SENSE PRO - DEVELOPMENT STEPS 🚀
 
-Step 2: Start the FastAPI Server
-Run the following command to start the server:
-uvicorn main_api:app --reload
+Step 1: Environment Setup
+------------------------
+1. Install Python 3.9+
+2. Install Required Libraries:
+   pip install fastapi uvicorn gtts edge-tts websockets
 
-Step 3: Access Swagger UI
-Open your web browser and go to:
-http://127.0.0.1:8000/docs
+Step 2: Backend Architecture
+---------------------------
+- Ensure the following structure:
+  /output/edge
+  /output/gtts
+  /output/temp
+  /logs
+- Start the server:
+  uvicorn main_api:app --reload
 
-Step 4: Test Google TTS (gTTS)
-1. Expand the "Google TTS" section (POST /gtts/generate).
-2. Click "Try it out".
-3. Enter JSON payload:
-   {
-     "text": "Hello using Google TTS",
-     "lang": "en",
-     "slow": false
-   }
-4. Click "Execute".
-5. Check 'output' folder for `gtts_....mp3`.
+Step 3: Frontend Experience
+--------------------------
+1. Open http://127.0.0.1:8000
+2. UI Features:
+   - VoiceSense Pro Title (Animated)
+   - Input Text Area (Live Tracking)
+   - Live Visualizer (Pulsing Bar)
+   - Audio Logic: Uses Web Audio API for 0-latency gapless playback.
 
-Step 5: Test Microsoft Edge TTS
-1. Expand the "Microsoft Edge TTS" section (POST /edge-tts/generate).
-2. Click "Try it out".
-3. Enter JSON payload:
-   {
-     "text": "Hello using Edge TTS",
-     "voice": "en-US-AriaNeural",
-     "rate": "+0%",
-     "volume": "+0%",
-     "pitch": "+0Hz"
-   }
-4. Click "Execute".
-5. Check 'output' folder for `edge_....mp3`.
+Step 4: Smart Real-Time Narration
+---------------------------------
+- Type a sentence. The engine detects your pause (300ms) or punctuation (.).
+- The system sends the text via WebSocket.
+- The AI generates audio for the sentence instantly.
+- The "Delta Tracker" ensures only newly typed words are narrated (No repetition).
 
-Step 6: List Edge TTS Voices
-1. Expand "Microsoft Edge TTS" section (GET /edge-tts/list-voices).
-2. Execute to see available voices like "en-US-GuyNeural", "hi-IN-SwaraNeural", etc.
+Step 5: File Management
+-----------------------
+- When a thought is finished, the backend merges all fragments into one "Final MP3".
+- Find permanent files in: output/edge/final_....mp3
+- Find user inputs history in: logs/inputs.json
+
+Step 6: UI Controls
+-------------------
+- Toggle "Edge" vs "Google" in the dropdown.
+- Use "Clear Input" to reset the session.
+- Use "Manual Stream" if you want to re-play the entire text.
+
+TIPS:
+- Click anywhere on the page first to enable audio in Chrome/Edge browsers.
+- Monitor your Browser Console (F12) to see real-time WebSocket reports.
+- Audio volume can be controlled via the UI player or system mixer.
